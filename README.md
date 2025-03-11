@@ -10,3 +10,7 @@ The **main.js** file demonstrates a range of skills including:
 - **Product Filtering:** Displaying and filtering products (paid vs. free) with DOM manipulation and event handling.
 
 This project highlights my proficiency in creating interactive, user-friendly interfaces while working with a prebuilt template.
+
+## Live Demo
+
+Check out the live version of the website [here](https://cook226.github.io/Project-3---Javascript/).
